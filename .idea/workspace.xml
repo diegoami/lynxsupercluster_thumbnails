@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7804b40-9420-4a43-b9e2-176577fac53c" name="Changes" comment="New thumbnails">
+    <list default="true" id="c7804b40-9420-4a43-b9e2-176577fac53c" name="Changes" comment="New thumbnail bases">
       <change afterPath="$PROJECT_DIR$/.idea/lynxsupercluster_thumbnails.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fm21ssbs/image/fm21ssb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fm21ssbs/image/fm21ssb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fm21ssbs/image/fm21ssb.kra" beforeDir="false" afterPath="$PROJECT_DIR$/fm21ssbs/image/fm21ssb.kra" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,9 @@
       <workItem from="1675951131840" duration="3004000" />
       <workItem from="1676027901993" duration="636000" />
       <workItem from="1676109958734" duration="584000" />
-      <workItem from="1676111526664" duration="4164000" />
+      <workItem from="1676111526664" duration="4232000" />
+      <workItem from="1676189941737" duration="717000" />
+      <workItem from="1676284123160" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="thumbnails">
       <created>1672608314084</created>
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675951169325</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New thumbnail bases">
+      <created>1676146907990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676146907990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +121,7 @@
     <MESSAGE value="thumbnails" />
     <MESSAGE value="england png" />
     <MESSAGE value="New thumbnails" />
-    <option name="LAST_COMMIT_MESSAGE" value="New thumbnails" />
+    <MESSAGE value="New thumbnail bases" />
+    <option name="LAST_COMMIT_MESSAGE" value="New thumbnail bases" />
   </component>
 </project>
